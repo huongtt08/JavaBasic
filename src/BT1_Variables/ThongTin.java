@@ -11,6 +11,5 @@ public class ThongTin {
         System.out.println("Tuổi: " + Age);
         System.out.println("Địa chỉ: " + Address);
         System.out.println("SĐT: " + Phone);
-
     }
 }
